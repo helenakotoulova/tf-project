@@ -1,0 +1,9 @@
+.section {
+    width: 80%;
+    margin:auto;
+}
+
+.error {
+    color:red;
+    text-align: center;
+}
